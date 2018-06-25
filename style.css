@@ -2,6 +2,26 @@ body {
     font-family:sans-serif, Verdana;
     color:#000;
     font-size: 14px;
-    background-image: url('');
+    background-image: url('background.jpg');
     background-size: cover;
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: solid 20px black;
+    background-color: beige;
+}
+
+img {
+    border: dotted 5px black;
+    border-radius: 10%;
+    margin: auto;
+    width: 75%;
+    display: block;  
+}
+
+.malzemeler {
+    text-align: center;
 }
